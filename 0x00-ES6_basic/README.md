@@ -1,1 +1,1 @@
-0x00 ES6 BASICS
+# Solutions to tasks on 0x00. ES6 Basics
